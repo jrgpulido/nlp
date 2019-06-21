@@ -7,7 +7,7 @@ class NLP {
 //useClass
 (function useNlp() {
     let t = new NLP(0.5)
-    console.log('congrats...')
+    console.log('Congrats...\nYour are using the latest version of this lib...')
     console.log(t.x)
     t.x = -1
     console.log(t.x)
