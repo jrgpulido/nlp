@@ -5,7 +5,7 @@ class NLP {
 }
 
 //useClass
-(function useMath() {
+(function useNlp() {
     let t = new NLP(0.3)
     console.log('congrats...')
     console.log(t.x)
