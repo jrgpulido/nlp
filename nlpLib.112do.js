@@ -1,4 +1,4 @@
-class Math {
+class NLP {
     constructor(x) {
 	this.x = x
     }  
@@ -6,7 +6,8 @@ class Math {
 
 //useClass
 (function useMath() {
-    let t = new Math(0.3)
+    let t = new NLP(0.3)
+    console.log('congrats...')
     console.log(t.x)
     t.x = -1
     console.log(t.x)
